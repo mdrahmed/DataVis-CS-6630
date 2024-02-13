@@ -4,25 +4,28 @@ This repo contains all the assignments of data visualization course. Till now al
 
 
 ## Project 2
-The final tree of this project looked like following:
+In this project, I used JavaScript to create a tree data structure, and render that tree to the browser with the D3 library. The final tree of this project looked like following:
 
 ![animal-tree](HW2/figs/finalTree.png)
 
 Details of this project will be found inside `HW2`
 
-## Project 
-The final result of this project looks like following,
+## Project 3 
+In this project, I made interactive charts with JavaScript and D3 to explored Covid-19 data. The final result of this project looks like following,
 
 ![Bar chart](HW3/figures/screenshot.png)
 
-After making the animation, it became interactive like following,
+I animated the charts using D3, after adding the animation it interacted like followingr,
 
-![Animated Result](HB3/figures/hw3_demo.gif)
+![Animated Result](HW3/figures/hw3_demo.gif)
 
 Details of this project will be found inside `HW3`
 
 ## Project 4
-There are 2 parts of this project, Map view and interactive line chart based on the selected countries in map.
+In this project, I built a visualization inspired by OurWorldInData's COVID-19 dashboard. The visualization is made up of two views: a map and a interactive line chart based on the selected countries in map.
+Here is the final visualization showing the interaction between the world map and line chart,
+
+![Animated Result](HW4/figs/example.gif)
 
 **Part 1: Map View**
 
@@ -31,10 +34,6 @@ There are 2 parts of this project, Map view and interactive line chart based on 
 **Part 2: Line chart**
 
 ![line-chart](HW4/figs/line-chart.png)
-
-Here is the final visualization showing the interaction between the world map and line chart,
-
-![Animated Result](HW4/figs/example.gif)
 
 ## Project 5
 In this project, I visualized polling data and predictions for the upcoming US senate election. The final solution looks like following,
