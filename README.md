@@ -22,7 +22,7 @@ I animated the charts using D3, after adding the animation it interacted like fo
 Details of this project will be found inside `HW3`
 
 ## Project 4
-In this project, I built a visualization inspired by OurWorldInData's COVID-19 dashboard. The visualization is made up of two views: a map and a interactive line chart based on the selected countries in map.
+In this project, I built a visualization inspired by [OurWorldInData's](https://ourworldindata.org/covid-cases) COVID-19 dashboard. The visualization is made up of two views: a map and a interactive line chart based on the selected countries in map.
 Here is the final visualization showing the interaction between the world map and line chart,
 
 ![Animated Result](HW4/figs/example.gif)
