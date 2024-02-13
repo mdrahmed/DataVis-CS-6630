@@ -35,11 +35,14 @@ Here is the final visualization showing the interaction between the world map an
 
 ![line-chart](HW4/figs/line-chart.png)
 
+Details of this project will be found inside `HW4`.
+
 ## Project 5
 In this project, I visualized polling data and predictions for the upcoming US senate election. The final solution looks like following,
 
 ![demo](HW5/figs/demo.gif)
-There is 7 parts in this project as described following,
+
+There are 7 parts in this project as described following,
 
 **Part I: Populating The table**
 
@@ -75,5 +78,5 @@ Again, the table is sorted in decreasing order by the margin of victory,
 
 ![expandedExample](HW5/figs/overview.png)
 
-
+Details of this project will be found inside `HW5`.
 
